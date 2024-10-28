@@ -1,0 +1,10 @@
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Apps\bvc\SODV2101\WindowsFormsApp3\obj\Debug\PieChartGenerator.Form1.resources
